@@ -16,7 +16,3 @@ liScroll 2 est un plugin jQuery permettant de faire défiler du texte à partir 
 		</ul>
 	</div>
 ```
-
-
-
-
